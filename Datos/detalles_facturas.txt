@@ -1,0 +1,4 @@
+Detalles de Facturas:
+Factura Número: 1231:
+Total: $486.99
+----------------------------------------

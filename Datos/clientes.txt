@@ -1,0 +1,2 @@
+Clientes:
+ID: C0001, Nombre: KEVIN
