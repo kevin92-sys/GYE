@@ -1,6 +1,6 @@
 Cuentas corrientes:
 ID Cliente: C0001, Nombre Cliente: KEVIN
 Movimientos:
-  Fecha: 12312, Debe: 486.99, Haber: 0.0, Detalle: Factura #1231, Forma de pago: N/A, Número de referencia: N/A
-Saldo: 486.99
+  Fecha: 123, Debe: 23.44, Haber: 0.0, Detalle: Factura #123, Forma de pago: N/A, Número de referencia: N/A
+Saldo: 23.44
 ----------------------------------------

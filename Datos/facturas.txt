@@ -1,2 +1,2 @@
 Facturas:
-Número de factura: 1231, Cliente: KEVIN, Fecha: 12312, Total: $486.99
+Número de factura: 123, Cliente: KEVIN, Fecha: 123, Total: $23.44
